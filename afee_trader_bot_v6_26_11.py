@@ -41,7 +41,7 @@ except Exception as _chart_import_err:
     )
 
 # ─── CONFIG ───────────────────────────────────────────────────────────────────
-BOT_VERSION = "6.26.11"
+BOT_VERSION = "6.26.12"
 TELEGRAM_TOKEN = "7166787350:AAFGk-3oqFeX2w5yXv28X3hxKXQblbXV-94"
 TELEGRAM_CHAT_ID = "-1002532379243"
 # FIX (Pass 3 audit, critical): gates who is allowed to become the bot's
